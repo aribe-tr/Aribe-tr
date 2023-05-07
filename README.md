@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amichaikafka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AriBerger&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aribe-tr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amichaikafka&show_icons=true&theme=radical&line_height=20)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aribe-tr&show_icons=true&theme=radical&line_height=20)
 
 <!--
 **aribe-tr/Aribe-tr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
